@@ -6,7 +6,7 @@ https://public.flourish.studio/visualisation/30609057/
 https://fcodinap.github.io/uoc_master_ciencia_dades_fcodinap/M2.959_Visualitzaci%C3%B3%20de%20dades/PAC2/mitre_circlepack_viz.html
 
 ### Linear Dendogram
-https://fcodinap.github.io/uoc_master_ciencia_dades_fcodinap/M2.959_Visualitzaci%C3%B3%20de%20dades/PAC2/dendograma_horitzontal_iucn.html
+https://fcodinap.github.io/uoc_master_ciencia_dades_fcodinap/M2.959_Visualitzaci%C3%B3%20de%20dades/PAC2/dendrograma_horitzontal_iucn.html
 
 ### Convex Hull
 https://fcodinap.github.io/uoc_master_ciencia_dades_fcodinap/M2.959_Visualitzaci%C3%B3%20de%20dades/PAC2/convex_hull_gpu.html
